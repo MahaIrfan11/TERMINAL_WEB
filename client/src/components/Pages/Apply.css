@@ -1,0 +1,19 @@
+.ApplyContainer{
+  width:100%;
+  height:auto;
+  display:flex;
+  background-color: rgb(243, 243, 243);;
+}
+
+.HeaderImage{
+  background: blue;
+  width:1000px;
+  margin-left:50px;
+}
+.ImagePosition{
+  width:1000px;
+}
+.applyContentContainer{
+  display:flex;
+  justify-content:space-between;
+}

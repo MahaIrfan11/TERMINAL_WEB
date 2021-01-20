@@ -1,0 +1,5 @@
+{
+    "PORT": "5000",
+    "mongoURI": "mongodb+srv://maha11:msetirfan123@cluster0.nzcct.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}

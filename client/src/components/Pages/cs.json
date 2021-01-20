@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": " National University of Science and Technology (NUST), Islamabad",
+        "address": "Address: H-12, Islamabad, Islamabad Capital Territory, Pakistan",
+        "number": "Phone number: +92 51 90852400",
+        "email": "Email Address: ugaadmissions@nust.edu.pk",
+        "fee": "110000 PKR Per Semester",
+        "blogimage": "/Images/uni1.jpg",
+        "des": "NUST is no doubt the best university of engineering, technology and computer science in Pakistan. NUST School of Electrical Engineering and Computer Sciences (SEECS) gives education in computer science and software engineering of international standard. The school was established in 1999 as NUST Institute of Information and Technology.The university currently has 1100 students enrolled. Like NUST, PIEAS is also very selective university and a lot of hard work is required in order to get into it.As of QS Rankings 2019, PIEAS is ranked 397th worldwide, 146th in Asia and best in Pakistan",
+        "courseheading": "NUST offers following programs in computer science",
+        "courses1": "Bachelor’s in Software Engineering",
+        "courses2": "Bachelor’s in Computer Science",
+        "courses3": "Bachelor’s in Information Security"
+    },
+    {
+        "id": 2,
+        "title": " FAST NUCES Lahore",
+        "address": "Address: FAST,Johar Town, Lahore",
+        "number": "Phone Number: (051) 111 128 128",
+        "email": "Email Address: ugaadmissions@nust.edu.pk",
+        "fee": "272000 PKR Annually",
+        "blogimage": "/Images/uni2.jpg",
+        "des": "FAST is one of the best universities of computer science in Pakistan. It was established in 2000 by former President and Army Chief of Pakistan General Pervaiz Musharraf. The university has five campuses in the whole country but the best one is in Islamabad. FAST has a very difficult semester system and considerable number of students fail to pass the semester. FAST has currently 11000 students enrolled.",
+        "courseheading": "FAST offers following programs in computer science",
+        "courses1": "Bachelor’s in Software Engineering",
+        "courses2": "Bachelor’s in Computer Science",
+        "courses3": "Bachelor’s in Information Security"
+    },
+    {
+        "id": 3,
+        "title": " Punjab University College of Information Technology",
+        "address": "Address: Katchery Road، Near Anarkali Bazar، Lahore",
+        "number": "Phone Number: (042) 111 923 923",
+        "email": "Email Address: webmaster@pucit.edu.pk",
+        "fee": "100000 PKR Annually",
+        "blogimage": "/Images/uni3.jpg",
+        "des": "Punjab University College of Information Technology is one the top universities for computer science located in Lahore, Pakistan. PUCIT was established in 1988 with the name Centre for Computer Science.The university has a lot of club and societies for students. Library and a total of 800 plus computers lab is offered to students. PUCIT is the best institution for computer science in Lahore with 5000 students enrolled.",
+        "courseheading": "PUCIT offers following programs in computer science",
+        "courses1": "Bachelor’s in Software Engineering",
+        "courses2": "Bachelor’s in Computer Science",
+        "courses3": "Bachelor’s in Information Technology"
+    },
+    {
+        "id": 4,
+        "title": " Comsats University Islamabad",
+        "address": "Address: Park Rd, Islamabad, Islamabad Capital Territory",
+        "number": "Phone Number: (051) 9247000",
+        "email": "Email Address: rizwan_ahmed@comsats.edu.pk",
+        "fee": "174,000 PKR Annually",
+        "blogimage": "/Images/uni4.jpg",
+        "des": "Comsats University Islamabad is one the best universities for computer science in Pakistan. It was established in 1998 by Commission on Science and Technology for Sustainable Development in the South (COMSATS). Apart from the main campus in Islamabad, it has campuses in Lahore, Vehari, Attock, Sahiwal, Abbottabad and Wah.The university currently has 8500 students enrolled in Islamabad and 30,000 students enrolled in other 6 campuses.As of QS Rankings 2014, the university is ranked among top 250 universities in Asia.",
+        "courseheading": "COMSATS offers following programs in computer science",
+        "courses1": "Bachelor’s in Software Engineering",
+        "courses2": "Bachelor’s in Computer Science",
+        "courses3": "Bachelor’s in Information Technology"
+    },
+    {
+        "id": 5,
+        "title": " Information Technology University",
+        "address": "Address: ARFA Tower, Ferozepur Road, Nishtar Town, Lahore, Punjab",
+        "number": "Phone Number: (042) 35880062",
+        "email": "Email Address: admission@itu.edu.pk",
+        "fee": "174,000 PKR Annually",
+        "blogimage": "/Images/uni5.jpg",
+        "des": "Information Technology University is one of the best and emerging universities in Pakistan. It is located within Arfa Software Technology Park, while its 183-acre campus is under construction at Barki Road in eastern Lahore. ITU was founded in 2012 by Umar Saif who previously taught at Cambridge-MIT Institute. The university has varying degrees of partnership with Harvard University and maintains partnerships with EdX, IBM and US state edition. The university has more than 700 students enrolled. Between 2013 and 2016, the university has conducted PKR 700 million in research.",
+        "courseheading": "ITU offers following programs in computer science",
+        "courses1": "Bachelor’s in Software Engineering",
+        "courses2": "Bachelor’s in Computer Science",
+        "courses3": "Bachelor’s in Information Technology"
+    }
+]

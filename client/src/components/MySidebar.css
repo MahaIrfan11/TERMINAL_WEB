@@ -1,0 +1,44 @@
+.SideBarContainer{
+    width:330px;
+    height:480px;
+    background:rgb(255, 255, 255);
+}
+.SideBarContent{
+    padding:15px;
+    width:320px;
+    height:480px;
+    background:rgb(255, 255, 255);
+
+}
+.alldiscipline{
+    margin:10px 5px;
+    color:rgb(5, 155, 5);
+    font-weight: bolder;
+    font-size: 15px;;
+
+}
+.alldiscipline2{
+    margin:10px 15px;
+    color:rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 14px;
+
+}
+.disciplineList{
+    margin: 10px;
+
+}
+.contentList{
+    color:rgb(37, 37, 37);
+    font-size: 12px;;
+    font-weight: lighter;
+    padding-top:6px;
+    margin-top:3px;
+    margin-left:40px;
+
+}
+.contentList:hover{
+    color:rgb(29, 29, 29);
+    font-weight: bolder;
+
+}

@@ -1,0 +1,45 @@
+
+.card-wrapperS{
+    
+    position:relative;
+    max-width:100%;
+    width:100%;
+    height:100%;
+    margin:4px;
+    border-top-color: white;
+    padding:0 10px;
+    box-sizing: border-box;
+        
+    }
+    .card-imageS{
+        position: absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        z-index:2;
+        background-color: #000;
+        transition:.5s;}
+
+.cardS{
+    width:100%;
+    height:250px;
+    border-radius: 16px;
+    overflow: hidden;
+    cursor:pointer;
+    position: relative;
+   
+       
+    }
+    
+    img{
+        width:100%;
+        height:100%;
+        object-fit: cover;
+    }
+    
+    .card-imageS{
+            transform:translateY(-100px);
+            transition:all .9s;
+        }
+        

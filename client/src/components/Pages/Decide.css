@@ -1,0 +1,33 @@
+.decideContainer{
+    background: rgb(221, 221, 255);
+    width:100%;
+    height:auto;
+
+}
+.intro{
+    background: rgb(255, 255, 255);
+    height:400px;
+}
+
+.decideContentContainer{
+    display:flex;
+    justify-content: space-between;
+    padding:50px;
+    background-color: rgb(243, 243, 243);
+}
+
+.left{
+    
+    background: rgb(255, 255, 255);
+    width:800px;
+    margin:0px 30px;
+}
+.right{
+    width: 350px;
+    background-color: rgb(243, 243, 243);
+    
+}
+
+.introPara{
+    margin: 30px 20px;;
+}

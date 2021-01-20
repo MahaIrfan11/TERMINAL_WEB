@@ -1,0 +1,18 @@
+.guidelines{
+    background: white;
+    padding: 20px;
+    width:800px;
+    color:rgb(24, 24, 24);   
+}
+.content{
+    margin-top:20px;
+    
+}
+.imagWrap{
+    margin:30px;
+    align-items: center;
+}
+.contentHeading{
+    color:rgb(16, 16, 70);
+    text-decoration: underline;
+}

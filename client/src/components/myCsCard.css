@@ -1,0 +1,25 @@
+.RightContainerContent{
+    background-color: rgb(161, 95, 95);
+    width:750px;
+    margin-left:4px;
+    display:flex;
+    justify-content: space-between;
+    height:180px;
+}
+
+.contentHead{
+    background-color: rgb(161, 145, 145);
+    width:766px;
+    margin-left:15px;
+    height:700px;
+}
+.icon{
+    font-size: 2rem;
+    color:red;
+    padding-left:80px;
+}
+
+.csUni_Wishlist{
+    background-color:rgb(255, 20, 20);
+    height:176px;
+}
